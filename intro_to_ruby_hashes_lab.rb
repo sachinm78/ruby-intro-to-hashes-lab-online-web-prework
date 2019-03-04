@@ -25,11 +25,6 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-	
-		
-end
-
-def monopoly_with_fourth_tier
 	monopoly = {
 		:railroads =>
 		{
@@ -50,6 +45,10 @@ def monopoly_with_fourth_tier
 		}
 		}
 	}
+end
+
+def monopoly_with_fourth_tier
+	
 end
 
 
