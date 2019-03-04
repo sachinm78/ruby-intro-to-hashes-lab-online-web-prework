@@ -1,5 +1,6 @@
 def new_hash
-
+  my_hash = {student: "Sachin"}
+  my_hash
 end
 
 def actor
